@@ -89,7 +89,7 @@ if (smallItems !== true) {
     smallParts.remove();
 } else {
     let smallPartsInfo = document.createElement("p");
-    smallPartsInfo.textContent = "Small items: take a basket and go directly to asile H1";
+    smallPartsInfo.textContent = "Small items: take a basket and go directly to aisle H1";
     smallParts.appendChild(smallPartsInfo);
 }
 
